@@ -4,6 +4,7 @@
 <h2High resolution Figures</h2>
 <p>Click on the links below to download them</p>
 <ul>
+  <li><a href="Figure 11.tif">Figure 11.tif</a></li>
   <li><a href="Figure 15.pdf">Figure 15.pdf</a></li>
   <li><a href="Figure 16.pdf">Figure 16.pdf</a></li>
   <li><a href="Figure 17.pdf">Figure 17.pdf</a></li>
