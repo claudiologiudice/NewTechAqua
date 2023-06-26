@@ -1,3 +1,3 @@
 # NewTechAqua
-<img src=""></img>
+<img src="Newtechacqua.jpg"></img>
 NewTechAqua 
