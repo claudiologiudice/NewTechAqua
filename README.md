@@ -12,7 +12,7 @@
   <li><a href="Figure 19.pdf">Figure 19.pdf</a></li>
   <li><a href="Figure 20.pdf">Figure 20.pdf</a></li>
   <li><a href="Figure 21.pdf">Figure 21.pdf</a></li>
-  <li><a href="Figure 21.pdf">Figure 21.pdf</a></li>
+  <li><a href="Supplementary%20Figures_S1-S12.docx">Supplementary Figures_S1-S12.docx</a></li>
   <li><a href="Figure 21.pdf">Figure 21.pdf</a></li>
 
 </ul>
