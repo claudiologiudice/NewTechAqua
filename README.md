@@ -4,7 +4,11 @@
 <h2High resolution Figures</h2>
 <p>Click on the links below to download them</p>
 <ul>
-  <li><href></href></li>
-  <li></li>
-  <li></li>
+  <li><a href="">Figure 15.pdf</a></li>
+  <li><a href="">Figure 16.pdf</a></li>
+  <li><a href="">Figure 17.pdf</a></li>
+  <li><a href="">Figure 18.pdf</a></li>
+  <li><a href="">Figure 19.pdf</a></li>
+  <li><a href="">Figure 20.pdf</a></li>
+  <li><a href="">Figure 21.pdf</a></li>
 </ul>
