@@ -4,11 +4,11 @@
 <h2High resolution Figures</h2>
 <p>Click on the links below to download them</p>
 <ul>
-  <li><a href="">Figure 15.pdf</a></li>
-  <li><a href="">Figure 16.pdf</a></li>
-  <li><a href="">Figure 17.pdf</a></li>
-  <li><a href="">Figure 18.pdf</a></li>
-  <li><a href="">Figure 19.pdf</a></li>
-  <li><a href="">Figure 20.pdf</a></li>
-  <li><a href="">Figure 21.pdf</a></li>
+  <li><a href="Figure 15.pdf">Figure 15.pdf</a></li>
+  <li><a href="Figure 16.pdf">Figure 16.pdf</a></li>
+  <li><a href="Figure 17.pdf">Figure 17.pdf</a></li>
+  <li><a href="Figure 18.pdf">Figure 18.pdf</a></li>
+  <li><a href="Figure 19.pdf">Figure 19.pdf</a></li>
+  <li><a href="Figure 20.pdf">Figure 20.pdf</a></li>
+  <li><a href="Figure 21.pdf">Figure 21.pdf</a></li>
 </ul>
